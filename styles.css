@@ -1,0 +1,40 @@
+body {
+    font-family: Arial, sans-serif;
+    overflow-x: hidden; 
+  }
+
+  .container {
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+ }
+ 
+ .item {
+    flex: 1;
+    margin: 10px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+ }
+ 
+ .item-title {
+    font-size: 20px;
+    color: #222;
+    margin-bottom: 10px;
+ }
+ 
+ .item-date {
+    font-size: 14px;
+    color: #999;
+    margin-bottom: 10px;
+ }
+ 
+ .item-description {
+    font-size: 16px;
+    color: #666;
+    line-height: 1.5;
+ }
+
+
+ 
+ 
